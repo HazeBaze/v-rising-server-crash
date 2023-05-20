@@ -1,0 +1,11 @@
+
+
+[2023-05-20 13:41:20] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-05-20 13:41:20] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2023-05-20 13:41:20] [0,0] SetSteamID( [A:1:0:0] )
+[2023-05-20 13:41:20] [0,0] Server says 0% of connections should be websockets, we rolled 84 - using UDP as default.
+[2023-05-20 13:41:20] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'gameserver'. . .
+[2023-05-20 13:41:20] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2023-05-20 13:41:20] [1,2] Connect() starting connection (eNetQOSLevelMedium, 146.66.155.38:27017, UDP)
+[2023-05-20 13:41:21] [1,2] ConnectionCompleted() (185.25.182.52:27018, UDP) local address (0.0.0.0:52176)
+[2023-05-20 13:41:21] [1,2] RecvMsgClientLogOnResponse() : [A:1:462430208:23442] 'OK'

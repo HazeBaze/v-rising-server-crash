@@ -1,0 +1,6 @@
+
+
+[2023-05-20 13:41:20] Failed to read store 'install' from 'C:\Eigene_Sachen\v-rising\config\config.vdf.tmp'
+[2023-05-20 13:41:20] Failed to read store 'userlocal' from 'C:\Eigene_Sachen\v-rising\config\localconfig.vdf.tmp'
+[2023-05-20 13:41:21] Flushed store 'install' to 'C:\Eigene_Sachen\v-rising\config\config.vdf'
+[2023-05-20 13:41:22] Flushed store 'install' to 'C:\Eigene_Sachen\v-rising\config\config.vdf'
